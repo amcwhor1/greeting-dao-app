@@ -1,1 +1,1 @@
-# Example REST API deployed to Google Cloud
+REST API briefly deployed to Google Cloud
